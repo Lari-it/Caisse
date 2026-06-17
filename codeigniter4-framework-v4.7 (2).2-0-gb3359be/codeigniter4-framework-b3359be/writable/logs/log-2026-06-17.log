@@ -889,3 +889,4 @@ in SYSTEMPATH/Database/SQLite3/Connection.php on line 164.
 13 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter()
 14 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb()
 15 SYSTEMPATH/rewrite.php(44): require_once('/home/sedra/Documents/Caisse/codeigniter4-framework-v4.7 (2).2-0-gb3359be/codeigniter4-framework-b3359be/public/index.php')
+
